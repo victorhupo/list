@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:tln network,tln network
+https://playback-hls-live-cache-f1721.cdnverizon.com.br/Content/HLS_HLS_Clear/Live/channel(Telenovelas)/02.m3u8
+
+#EXTINF:Disney Channel,Disney Channel
+https://playback-hls-live-cache-f1721.cdnverizon.com.br/Content/HLS_HLS_Clear/Live/channel(Disney_Channel_BRA)/03.m3u8
