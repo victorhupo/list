@@ -1,5 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-DISCONTINUITY-SEQUENCE:12
+#EXT-X-MEDIA-SEQUENCE:273
 #EXT-X-PROGRAM-DATE-TIME:2020-08-04T01:58:11.302Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/fa9d09_Cisneros/clip/5ee9162ed6ea68001ad8caad_SOMOS_TU_Y_YO_Episodio_8_S3E8/720p/20200617_151948/hls/501303-818452/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000002
 #EXTINF:5,
@@ -14,5 +17,7 @@ https://siloh-latam-aka.plutotv.net/fa9d09_Cisneros/clip/5ee9162ed6ea68001ad8caa
 #EXTINF:5,
 https://siloh-latam-aka.plutotv.net/fa9d09_Cisneros/clip/5ee9162ed6ea68001ad8caad_SOMOS_TU_Y_YO_Episodio_8_S3E8/720p/20200617_151948/hls/0-end/hls_2400-00004.ts
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/fa9d09_Cisneros/clip/5ee9162ed6ea68001ad8caad_SOMOS_TU_Y_YO_Episodio_8_S3E8/720p/20200617_151948/hls/0-end/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000006
+#EXTINF:5,
+https://siloh-latam-aka.plutotv.net/fa9d09_Cisneros/clip/5ee9162ed6ea68001ad8caad_SOMOS_TU_Y_YO_Episodio_8_S3E8/720p/20200617_151948/hls/0-end/hls_2400-00005.ts
 #PLUTO-SESSION-ID:8e78f3ad-c7ef-4c1b-970e-7464aefea4f1
 #PLUTO-VERSION:2.37.3-production-stitcher-blue
