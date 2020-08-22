@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:tln network,tln network
-https://playback-hls-live-cache-f1721.cdnverizon.com.br/Content/HLS_HLS_Clear/Live/channel(Telenovelas)/02.m3u8
+--http-header "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0" --http-header "Referer=https://webapp.guigo.tv/live-tv" "https://qlygq97yir.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(Telenovelas)/index.m3u8"
 
 #EXTINF:Disney Channel,Disney Channel
 https://playback-hls-live-cache-f1721.cdnverizon.com.br/Content/HLS_HLS_Clear/Live/channel(Disney_Channel_BRA)/03.m3u8
